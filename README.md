@@ -13,9 +13,10 @@ For support, please email: [MathedPotatoes314@gmail.com](mailto:MathedPotatoes31
 ### Device Requirements
 **Q: What devices are compatible?**  
 A: Motion Tracker requires a device with LiDAR sensor:
-- iPhone 12 Pro, 13 Pro, 14 Pro, 15 Pro (and Pro Max models)
+- iPhone 12 Pro, 13 Pro, 14 Pro, 15 Pro, 16 Pro, 17 Pro (and Pro Max models)
 - iPad Pro 11-inch (4th generation or newer)
 - iPad Pro 12.9-inch (4th generation or newer)
+- iPad Pro 13-inch
 
 Standard iPhone and iPad models do not have LiDAR and cannot run this app.
 
